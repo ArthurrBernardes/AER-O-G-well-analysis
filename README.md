@@ -1,7 +1,9 @@
 # AER-O-G-well-analysis
 AER O&G well analysis throughout Alberta
 
-Risk analysis of Oil and Gas wells.
+###### Risk analysis of Oil and Gas wells.
+###### DATA IS NOT TIDY.
+###### All data acquired with Abadata 2.0 and IHS AccuMap®
 
 ### Risk Classification:
 
