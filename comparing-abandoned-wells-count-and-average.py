@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-data = pd.read_csv(r"C:\Users\Arthur\OneDrive\Desktop\OWA AER.csv")
+data = pd.read_csv("OWA AER.csv")
 
 # subset the data to include only Abandoned, Suspended, Commingled, and Drilled & Cased
 sub_data = data[data['status'].isin(['Abandoned', 'Suspended', 'Commingled', 'Drilled & Cased'])]
